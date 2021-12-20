@@ -1,9 +1,9 @@
 h5py==2.10.0
-pandas==1.1.2
-librosa==0.6.0
-numba==0.48
+pandas==1.1.5
+librosa==0.8.1
+numba==0.51.2
 mido==1.2.9
 mir_eval==0.5
-matplotlib==3.0.3
+matplotlib==3.2.2
 torchlibrosa==0.0.4
 sox==1.4.0
